@@ -1,0 +1,5 @@
+<p style="text-align:center;">AJAX is not a programming language.</p>
+<p style="text-align:center;">AJAX is a technique for accessing web servers from a web page.</p>
+<p style="text-align:center;">AJAX stands for Asyncronous JavaScript And XML.</p>
+<br>
+<p style="text-align:center;">This info was grabbed from an external source using AJAX</p>

@@ -1,0 +1,139 @@
+
+
+
+h1 {
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-size:3vw;
+}
+
+.jq button {
+	text-align: center;
+}
+
+#sketchpadapp {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+
+#sketchpadapp table {
+	margin: 0px auto;
+}
+
+#sketchpadapp canvas {
+	border: 1px solid black;
+	background-color: white;
+}
+
+#block {
+	width: 800px;
+	border: 5px solid black;
+	padding: 50px;
+	margin: 0 auto;
+	background-color: white;
+}
+
+#block ul {
+	list-style-position: inside;
+}
+
+#frontPage ul {
+	list-style: none;
+}
+
+#bannerimage {
+	width: 100%;
+	background-image: url(cloud_banner.jpg);
+	background-color: light-blue;
+	background-position: center;
+}
+
+#bannerimage h2 {
+	color: white;
+	font-family: Tahoma, Geneva, sans-serif
+	font-size: 32px;
+}
+
+
+.center {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	width: 50%;
+}
+
+#msDiv img {
+	width: 85%;
+	height: 85%;
+}
+
+#mosaicDiv img {
+	width: 85%;
+	height: 85%;
+}
+
+#makeTeamDiv img {
+	width: 80%;
+	height: 80%;
+}
+
+.main img {
+	height: 400px;
+	width: 500px;
+}
+
+.row.row-no-margin {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.col-no-padding {
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+
+.show {
+	display: block;
+}
+
+.carousel-caption h3 {
+	color: black !important;
+}
+
+.sidenav {
+  width: 130px;
+  position: fixed;
+  z-index: 1;
+  top: 120px;
+  left: 10px;
+  background: #eee;
+  overflow-x: hidden;
+  padding: 8px 0;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #2196F3;
+  display: block;
+}
+
+
+
+.sidenav a:hover {
+  color: #064579;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+
+
