@@ -10,4 +10,4 @@ This started as the final project in one of my web dev courses. All that was exp
 ## Credits
 Drawing app was created by following this [Sketchpad Tutorial](https://zipso.net/a-simple-touchscreen-sketchpad-using-javascript-and-html5/) and adding some other features of my own.  
 
-The NavBar, BootStrap features, AJAX demos, and other features used certain aspects from [W3 Schools Tutorials(https://www.w3schools.com/)  
+The NavBar, BootStrap features, AJAX demos, and other features used certain aspects from [W3 Schools Tutorials](https://www.w3schools.com/)  
