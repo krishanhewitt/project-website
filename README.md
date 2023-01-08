@@ -1,5 +1,5 @@
 ## Project Website
-This started as the final project in one of my web dev courses. All that was expected of us was a simple HTML page with links (think early 2000's website). Over the winter I completely overhauled it and ended up learning how much more work web development took than I had thought. A link to the live site can be found [here](http://krishanhewitt.ca/).  
+This was a project to build a simple website using HTML, CSS, JavaScript, and PHP.
 
 ## Features
 -Responsive layout  
